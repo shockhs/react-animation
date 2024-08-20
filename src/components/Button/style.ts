@@ -6,7 +6,7 @@ export const SButton = styled.button`
   outline: none;
   position: relative;
   background-clip: padding-box;
-  border: solid $border transparent;
+  border: solid 5px transparent;
   border-radius: 1em;
   cursor: pointer;
 
